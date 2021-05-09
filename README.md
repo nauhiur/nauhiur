@@ -13,43 +13,47 @@
 <h2 align='center'><samp><strong>Hi there 👋, my name is Ruihuan</strong></samp></h2>
 <p align='center'>Full-stack Developer</p>
 
-</br>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
-
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
 💻 **Languages and Tools:** 🛠️<br>
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
-![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon-AWS&logoColor=FFFFFF&labelColor=FF9900)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=ffffff&labelColor=0078D6)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript&logoColor=ffffff&labelColor=007ACC)
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=007396)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffffff&labelColor=3776AB)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![Svelte](https://img.shields.io/badge/-Svelte.js-000000?style=flat&logo=Svelte&logoColor=ffffff&labelColor=FF3E00)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=764ABC&labelColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![Node](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![NestJS](https://img.shields.io/badge/-Nest.js-000000?style=flat&logo=Nestjs&logoColor=ff0000&labelColor=ffffff)
+![Nest](https://img.shields.io/badge/-Nest.js-000000?style=flat&logo=Nestjs&logoColor=ff0000&labelColor=ffffff)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=Nginx&logoColor=009639&labelColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=ffffff&labelColor=2496ED)
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=ffffff&labelColor=DC382D)
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&labelColor=E10098)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=ffffff&labelColor=0078D6)
+![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat&logo=Prettier&labelColor=#F7B93E)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=Cloudflare&logoColor=ffffff&labelColor=F38020)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=CC6699)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
+![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
 
 🧐 **Knowledge of:**<br>
 
