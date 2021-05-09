@@ -44,7 +44,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&labelColor=E10098)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat&logo=Prettier&labelColor=#F7B93E)
+![Babel](https://img.shields.io/badge/-Babel-000000?style=flat&logo=Babel&logoColor=F9DC3E&labelColor=fffff)
+![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat&logo=Prettier&logoColor=ffffff&labelColor=F7B93E)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=Cloudflare&logoColor=ffffff&labelColor=F38020)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
@@ -58,7 +59,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+`Design Patterns`, `Microservices`, `CI / CD`, `Unit Testing`, `E2E Testing`, `System Design`, `Object-Oriented Programming`, `UI / UX`, `Algorithms`.
 
 🌍 **Deployment platforms:**<br>
 
