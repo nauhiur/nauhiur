@@ -20,9 +20,9 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 💻 **Languages and Tools:** 🛠️<br>
 
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon-AWS&logoColor=FFFFFF&labelColor=FF9900)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=ffffff&labelColor=0078D6)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=000000&labelColor=FCC624)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript&logoColor=ffffff&labelColor=007ACC)
-![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript&logoColor=ffffff&labelColor=F7DF1E)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffffff&labelColor=3776AB)
@@ -31,6 +31,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Svelte](https://img.shields.io/badge/-Svelte.js-000000?style=flat&logo=Svelte&logoColor=ffffff&labelColor=FF3E00)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=764ABC&labelColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js)
+![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack&logoColor=22ADF6&labelColor=ffffff)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
 ![Nest](https://img.shields.io/badge/-Nest.js-000000?style=flat&logo=Nestjs&logoColor=ff0000&labelColor=ffffff)
 ![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=Nginx&logoColor=009639&labelColor=ffffff)
