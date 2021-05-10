@@ -41,7 +41,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=ffffff&labelColor=DC382D)
-![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
+![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger&logoColor=000000&labelColor=85EA2D)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&labelColor=E10098)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Babel](https://img.shields.io/badge/-Babel-000000?style=flat&logo=Babel&logoColor=F9DC3E&labelColor=fffff)
@@ -59,7 +59,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`Design Patterns`, `Microservices`, `CI / CD`, `Unit Testing`, `E2E Testing`, `System Design`, `Object-Oriented Programming`, `UI / UX`, `Algorithms`.
+`Design Patterns`, `Microservices`, `CI / CD`, `Unit Testing`, `E2E Testing`, `System Design`, `Object-Oriented Programming`, `Algorithms`, `UI / UX`.
 
 🌍 **Deployment platforms:**<br>
 
