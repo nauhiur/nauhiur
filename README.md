@@ -29,6 +29,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![Svelte](https://img.shields.io/badge/-Svelte.js-000000?style=flat&logo=Svelte&logoColor=ffffff&labelColor=FF3E00)
+![.Net](https://img.shields.io/badge/-.Net-000000?style=flat&logo=.NET&logoColor=FFFFFF&labelColor=512BD4)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=764ABC&labelColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack&logoColor=22ADF6&labelColor=ffffff)
