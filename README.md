@@ -11,7 +11,7 @@
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 <h2 align='center'><samp><strong>Hi there 👋, my name is Ruihuan (Ruei-Huan)</strong></samp></h2>
-<p align='center'>Full-stack Developer</p>
+<p align='center'>Full Stack Developer</p>
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
 
@@ -35,6 +35,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=764ABC&labelColor=ffffff)
 ![Nest](https://img.shields.io/badge/-Nest.js-000000?style=flat&logo=Nestjs&logoColor=ffffff&labelColor=ff0000)
 ![Node](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=ffffff&labelColor=339933)
+![Deno](https://img.shields.io/badge/-Deno-000000?style=flat&logo=Deno&logoColor=ffffff&labelColor=000000)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack&logoColor=ffffff&labelColor=22ADF6)
 ![Vite](https://img.shields.io/badge/-Vite-000000?style=flat&logo=Vite&logoColor=ffffff&labelColor=646CFF)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&logoColor=CB3837&labelColor=ffffff)
