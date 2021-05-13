@@ -19,8 +19,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 💻 **Languages and Tools:** 🛠️<br>
 
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon-AWS&logoColor=FFFFFF&labelColor=FF9900)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=000000&labelColor=FCC624)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript&logoColor=ffffff&labelColor=007ACC)
 ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript&logoColor=ffffff&labelColor=F7DF1E)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ffffff&labelColor=0088CC)
@@ -51,6 +49,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Babel](https://img.shields.io/badge/-Babel-000000?style=flat&logo=Babel&logoColor=F9DC3E&labelColor=fffff)
 ![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat&logo=Prettier&logoColor=ffffff&labelColor=F7B93E)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon-AWS&logoColor=FFFFFF&labelColor=FF9900)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=000000&labelColor=FCC624)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=Cloudflare&logoColor=ffffff&labelColor=F38020)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
