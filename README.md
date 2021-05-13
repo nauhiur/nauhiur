@@ -30,10 +30,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=Lua&logoColor=ffffff&labelColor=2C2D72)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=C%20Sharp&logoColor=FFFFFF&labelColor=239120)
 ![.Net](https://img.shields.io/badge/-.Net-000000?style=flat&logo=.NET&logoColor=FFFFFF&labelColor=512BD4)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=764ABC&labelColor=ffffff)
-![Nest](https://img.shields.io/badge/-Nest.js-000000?style=flat&logo=Nestjs&logoColor=ffffff&labelColor=ff0000)
 ![Node](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=ffffff&labelColor=339933)
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat&logo=Deno&logoColor=ffffff&labelColor=000000)
+![Nest](https://img.shields.io/badge/-Nest.js-000000?style=flat&logo=Nestjs&logoColor=ffffff&labelColor=ff0000)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=764ABC&labelColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack&logoColor=ffffff&labelColor=22ADF6)
 ![Vite](https://img.shields.io/badge/-Vite-000000?style=flat&logo=Vite&logoColor=ffffff&labelColor=646CFF)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&logoColor=CB3837&labelColor=ffffff)
@@ -50,6 +50,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Babel](https://img.shields.io/badge/-Babel-000000?style=flat&logo=Babel&logoColor=F9DC3E&labelColor=fffff)
 ![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat&logo=Prettier&logoColor=ffffff&labelColor=F7B93E)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon-AWS&logoColor=FFFFFF&labelColor=FF9900)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&labelColor=000000)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=000000&labelColor=FCC624)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=Cloudflare&logoColor=ffffff&labelColor=F38020)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
@@ -64,11 +66,14 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`Design Patterns`, `Microservices`, `CI / CD`, `Unit Testing`, `E2E Testing`, `System Design`, `Object-Oriented Programming`, `Algorithms`, `UI / UX`.
+`Design Patterns`, `Microservices`, `CI / CD`, `Unit Testing`, `E2E Testing`, `System Design`, `Object-Oriented Programming`, `Algorithms`, `Database Systems Design`, `Information Security`, `UI / UX`.
 
 🌍 **Deployment platforms:**<br>
 
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&labelColor=000000)
+
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon-AWS&logoColor=FFFFFF&labelColor=FF9900)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&labelColor=000000)
 
 
 📚 **Working on:** <br>
