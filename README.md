@@ -1,8 +1,7 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ruihuan%20Chen-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ruihuanchen/)
-[![Mail](https://img.shields.io/badge/Outlook-rueihuan@outlook.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:rueihuan@outlook.com)
-<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ruihuan%20Chen-0A66C2?logo=Linkedin&logoColor=0A66C2&labelColor=black)](https://www.linkedin.com/in/ruihuanchen/)
+[![Outlook](https://img.shields.io/badge/Mail-rueihuan@outlook.com-0078D4?logo=Gmail&logoColor=0078D4&labelColor=black)](mailto:rueihuan@outlook.com)
 
 <!-- [![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh) -->
 <!-- [![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Ahmad-Sawalqeh) -->
@@ -30,6 +29,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=Lua&logoColor=ffffff&labelColor=2C2D72)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=C%20Sharp&logoColor=FFFFFF&labelColor=239120)
 ![.Net](https://img.shields.io/badge/-.Net-000000?style=flat&logo=.NET&logoColor=FFFFFF&labelColor=512BD4)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=CC6699)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=Tailwind%20CSS&logoColor=ffffff&labelColor=38B2AC)
 ![Node](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=ffffff&labelColor=339933)
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat&logo=Deno&logoColor=ffffff&labelColor=000000)
 ![Nest](https://img.shields.io/badge/-Nest.js-000000?style=flat&logo=Nestjs&logoColor=ffffff&labelColor=ff0000)
@@ -54,13 +57,11 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&labelColor=000000)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=000000&labelColor=FCC624)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=Cloudflare&logoColor=ffffff&labelColor=F38020)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=ffffff&labelColor=F24E1E)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=ffffff&labelColor=181717)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=CC6699)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=ffffff&labelColor=F05032)
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=ffffff&labelColor=2088FF)
 ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
 
@@ -79,11 +80,12 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 📚 **Working on:** <br>
 
 ![Svelte.js](https://img.shields.io/badge/-Svelte.js-000000?style=flat&logo=Svelte&logoColor=ffffff&labelColor=FF3E00)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=Tailwind%20CSS&logoColor=ffffff&labelColor=38B2AC)
 
 🤓 **Interested:** <br>
 
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=0081CB&labelColor=ffffff)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=ffffff&labelColor=02569B)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rueihuan)](https://github.com/anuraghazra/github-readme-stats)
