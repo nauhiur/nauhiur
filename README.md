@@ -65,8 +65,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&labelColor=000000)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=ffffff&labelColor=F05032)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=ffffff&labelColor=2088FF)
+![CircleCI](https://img.shields.io/badge/-CircleCI-000000?style=flat&logo=CircleCI&logoColor=ffffff&labelColor=343434)
 ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
 
 🧐 **Knowledge of:**<br>
 
