@@ -12,15 +12,13 @@
 <h2 align='center'><samp><strong>Hi there 👋, my name is Ruihuan (Ruei-Huan)</strong></samp></h2>
 <p align='center'>Full Stack Developer</p>
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
-
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+📫 As an individual who has always been keen to learn more about technology and life, I love to develop add-ons or scripts for the website to enhance the user experience, and have chosen a career path as a full stack developer. Especially, I have paid great attention to details in order to produce the best products with best practices.
 
 💻 **Languages and Tools:** 🛠️<br>
 
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript&logoColor=ffffff&labelColor=007ACC)
 ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript&logoColor=ffffff&labelColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ffffff&labelColor=0088CC)
+![React](https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=ffffff&labelColor=0088CC)
 ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=ffffff&labelColor=000000)
 ![Svelte](https://img.shields.io/badge/-Svelte.js-000000?style=flat&logo=Svelte&logoColor=ffffff&labelColor=FF3E00)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=007396)
