@@ -12,7 +12,7 @@
 <h2 align='center'><samp><strong>Hi there 👋, my name is Ruei-Huan</strong></samp></h2>
 <p align='center'>Full Stack Developer</p>
 
-📫 As an individual who always combine passion for learning more about technology and life, I love to develop add-ons or scripts for the website to enhance the user experience, and have chosen a career path as a full stack developer. Especially, I have paid great attention to details in order to produce the best products with best practices.
+📫 As an individual who always combines the passion to learn more about technology and life, I love to develop add-ons or scripts for the website to enhance the user experience, and therefore chose the career path as a full-stack developer. Especially, I have paid great attention to details in order to produce the best products with best practices.
 
 💻 **Languages and Tools:** 🛠️<br>
 
