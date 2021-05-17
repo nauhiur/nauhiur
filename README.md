@@ -23,7 +23,6 @@
 ![Svelte](https://img.shields.io/badge/-Svelte.js-000000?style=flat&logo=Svelte&logoColor=ffffff&labelColor=FF3E00)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack&logoColor=ffffff&labelColor=22ADF6)
 ![Vite](https://img.shields.io/badge/-Vite-000000?style=flat&logo=Vite&logoColor=ffffff&labelColor=646CFF)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&logoColor=CB3837&labelColor=ffffff)
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=ffffff&labelColor=C21325)
 ![RxJS](https://img.shields.io/badge/-RxJS-000000?style=flat&logo=ReactiveX&logoColor=ffffff&labelColor=B7178C)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=ffffff&labelColor=764ABC)
