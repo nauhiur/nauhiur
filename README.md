@@ -12,21 +12,21 @@
 <h2 align='center'><samp><strong>Hi there 👋, my name is Ruei-Huan</strong></samp></h2>
 <p align='center'>Full Stack Developer</p>
 
-📫 As an individual who always combines the passion to learn more about technology and life, I love to develop add-ons or scripts for the website to enhance the user experience, and therefore chose the career path as a full-stack developer. Especially, I have paid great attention to details in order to produce the best products with best practices.
+📫 As an individual who always combines the passion into learning more about technology and life, I love to develop add-ons or scripts for the website to enhance the user experience, and therefore chose the career path as a full-stack developer. Especially, I have paid great attention to details in order to produce the best products with best practices.
 
 💻 **Languages and Tools:** 🛠️<br>
 
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript&logoColor=ffffff&labelColor=007ACC)
 ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript&logoColor=ffffff&labelColor=F7DF1E)
 ![React](https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=ffffff&labelColor=0088CC)
-![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=ffffff&labelColor=000000)
+![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next-dot-js&logoColor=ffffff&labelColor=000000)
 ![Svelte](https://img.shields.io/badge/-Svelte.js-000000?style=flat&logo=Svelte&logoColor=ffffff&labelColor=FF3E00)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffffff&labelColor=3776AB)
 ![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=Lua&logoColor=ffffff&labelColor=2C2D72)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=C%20Sharp&logoColor=FFFFFF&labelColor=239120)
-![.Net](https://img.shields.io/badge/-.Net-000000?style=flat&logo=.NET&logoColor=FFFFFF&labelColor=512BD4)
-![Node](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=ffffff&labelColor=339933)
+![.Net](https://img.shields.io/badge/-.Net-000000?style=flat&logo=dot-NET&logoColor=FFFFFF&labelColor=512BD4)
+![Node](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node-dot-js&logoColor=ffffff&labelColor=339933)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=CC6699)
