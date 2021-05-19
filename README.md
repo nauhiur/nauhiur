@@ -12,7 +12,7 @@
 <h2 align='center'><samp><strong>Hi there 👋, my name is Ruei-Huan</strong></samp></h2>
 <p align='center'>Full Stack Developer</p>
 
-📫 As an individual who always combines the passion into learning more about technology and life, I love to develop add-ons or scripts for the website to enhance the user experience, and therefore chose the career path as a full-stack developer. Especially, I have paid great attention to details in order to produce the best products with best practices.
+📫 As an individual who always combines the passion into learning more about technology and life, I love to develop add-ons or scripts for the website to enhance the user experience and therefore chose the career path as a full-stack developer. Especially, I have paid great attention to details in order to produce the best products with best practices.
 
 💻 **Languages and Tools:** 🛠️<br>
 
@@ -27,9 +27,9 @@
 ![RxJS](https://img.shields.io/badge/-RxJS-000000?style=flat&logo=ReactiveX&logoColor=ffffff&labelColor=B7178C)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=ffffff&labelColor=764ABC)
 ![Node](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node-dot-js&logoColor=ffffff&labelColor=339933)
-![Nest](https://img.shields.io/badge/-Nest.js-000000?style=flat&logo=Nestjs&logoColor=ffffff&labelColor=ff0000)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=764ABC&labelColor=ffffff)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=ffffff&labelColor=000000)
+![Nest](https://img.shields.io/badge/-Nest.js-000000?style=flat&logo=Nestjs&logoColor=ffffff&labelColor=ff0000)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=000000&labelColor=ffffff)
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat&logo=Deno&logoColor=ffffff&labelColor=000000)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffffff&labelColor=3776AB)
