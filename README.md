@@ -40,6 +40,7 @@
 ![Octave](https://img.shields.io/badge/-Octave-000000?style=flat&logo=Octave&logoColor=ffffff&labelColor=0790C0)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=C%20Sharp&logoColor=FFFFFF&labelColor=239120)
 ![Go](https://img.shields.io/badge/-Golang-000000?style=flat&logo=Go&logoColor=ffffff&labelColor=00ADD8)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=ffffff&labelColor=00599C)
 ![.Net](https://img.shields.io/badge/-.Net-000000?style=flat&logo=dot-NET&logoColor=FFFFFF&labelColor=512BD4)
 ![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=Lua&logoColor=ffffff&labelColor=2C2D72)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
