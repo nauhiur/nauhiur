@@ -10,9 +10,11 @@
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 <h2 align='center'><samp><strong>Hi there 👋, my name is Ruei-Huan</strong></samp></h2>
-<p align='center'>Full Stack Developer</p>
+<p align='center'>Full-Stack Developer</p>
 
-📫 As an individual who always combines the passions to learn more about technology and life, I love to develop add-ons or scripts for the website to enhance the user experience and therefore chose the career path as a full-stack developer. Especially, I have paid great attention to details in order to produce the best products with best practices.
+📫 As an individual who always combines the passions for learning more about software development skills, I love to build personalized add-ons or scripts for websites to enhance the user experience and therefore chose the career path as a full-stack developer. 
+
+I recently developed a utility package that lets developers easily create a full-stack app integrating Next.js and Nest.js. In particular, I have paid great attention to details to produce the best products with best practices.
 
 💻 **Languages and Tools:** 🛠️<br>
 
