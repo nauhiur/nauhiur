@@ -32,6 +32,7 @@ I recently developed a utility package that lets developers easily create a full
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=764ABC&labelColor=ffffff)
 ![Nest](https://img.shields.io/badge/-Nest.js-000000?style=flat&logo=Nestjs&logoColor=ffffff&labelColor=ff0000)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=000000&labelColor=ffffff)
+![Socket.io](https://img.shields.io/badge/-Socket.io-000000?style=flat&logo=socket-dot-io&logoColor=ffffff&labelColor=010101)
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat&logo=Deno&logoColor=ffffff&labelColor=000000)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffffff&labelColor=3776AB)
