@@ -1,6 +1,6 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ruei‐Huan%20C.-0A66C2?logo=Linkedin&logoColor=0A66C2&labelColor=black)](https://www.linkedin.com/in/ruihuanchen/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ruei‐Huan%20C.-0A66C2?logo=Linkedin&logoColor=0A66C2&labelColor=black)](https://www.linkedin.com/in/rueihuan/)
 [![Outlook](https://img.shields.io/badge/Mail-rueihuan@outlook.com-0078D4?logo=Gmail&logoColor=0078D4&labelColor=black)](mailto:rueihuan@outlook.com)
 
 <!-- [![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh) -->
