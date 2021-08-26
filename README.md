@@ -8,7 +8,7 @@
 <!-- [![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh) -->
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
-<h2 align='center'><samp><strong>Hi there 👋, my name is Ruei-Huan</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋, my name is Ruihuan</strong></samp></h2>
 <p align='center'>Full-Stack Developer</p>
 
 📫 As an individual who always combines the passions for learning more about software development skills, I love to build personalized add-ons or scripts for websites to enhance the user experience and therefore chose the career path as a full-stack developer. 
